@@ -1,0 +1,39 @@
+h2
+	{
+	color:blue;
+	text-align:center;
+	text-shadow:2px 2px 2px #71BBD9;
+	
+	}
+p.para1
+	{
+		color:green;
+		text-align:justify;
+		font-family:georgia;
+		font-size:28px;
+		text-shadow:2px 2px 2px #6FC276;
+	}
+
+p#para2
+	{
+		color:black;
+		text-align:center;
+		font-family:georgia;
+		font-size:30px;
+		font-style:oblique;
+		text-shadow:2px 2px 2px white;
+		
+		
+		
+
+	}
+p.para3
+	{
+		color:#4b6043;
+		text-align:center;
+		font-family:georgia;
+		font-size:28px;
+		font-style:oblique;
+		text-shadow:2px 2px 2px white;
+		border: 5px solid red;
+	}
