@@ -1,6 +1,5 @@
 # Martha-sBS 
 # Turon (Banana Lumpia)
-<body bgcolor=#F2C4D0>
 A classic Filipino snack or dessert, Turon (also known as Banana Lumpia) is a sweet and delicious treat. This recipe provides a simple and easy way to make Turon at home.
 
 ## Description
